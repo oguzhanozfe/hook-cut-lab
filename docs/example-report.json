@@ -1,0 +1,28 @@
+{
+  "summary": "2 of 3 openings show proof in the first 3 seconds.",
+  "metrics": {
+    "Openings": 3,
+    "Window (s)": 3,
+    "With early proof": 2
+  },
+  "rows": [
+    {
+      "Opening": "Result first",
+      "Product visible (s)": 2.9,
+      "First promise (s)": 0.9,
+      "First proof (s)": 0
+    },
+    {
+      "Opening": "Question first",
+      "Product visible (s)": 1.8,
+      "First promise (s)": 0,
+      "First proof (s)": "Absent"
+    },
+    {
+      "Opening": "Hands at work",
+      "Product visible (s)": 1.55,
+      "First promise (s)": 2.3,
+      "First proof (s)": 1.1
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "window_seconds": 3,
+  "variants": [
+    {
+      "name": "Result first",
+      "beats": [
+        {
+          "start": 0,
+          "end": 1.4,
+          "features": [
+            "proof",
+            "product"
+          ]
+        },
+        {
+          "start": 0.9,
+          "end": 2.9,
+          "features": [
+            "product",
+            "promise"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Question first",
+      "beats": [
+        {
+          "start": 0,
+          "end": 1.2,
+          "features": [
+            "title",
+            "promise"
+          ]
+        },
+        {
+          "start": 1.2,
+          "end": 3.6,
+          "features": [
+            "product"
+          ]
+        },
+        {
+          "start": 3.1,
+          "end": 4,
+          "features": [
+            "proof"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hands at work",
+      "beats": [
+        {
+          "start": 0,
+          "end": 0.55,
+          "features": [
+            "context"
+          ]
+        },
+        {
+          "start": 0.55,
+          "end": 1.1,
+          "features": [
+            "product"
+          ]
+        },
+        {
+          "start": 1.1,
+          "end": 2.1,
+          "features": [
+            "product",
+            "proof"
+          ]
+        },
+        {
+          "start": 2.3,
+          "end": 3.8,
+          "features": [
+            "promise"
+          ]
+        }
+      ]
+    }
+  ]
+}
