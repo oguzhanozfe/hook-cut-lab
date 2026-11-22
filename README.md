@@ -2,6 +2,8 @@
 
 Compare when each ad opening shows its product, promise and proof.
 
+**[Open the live demo](https://oguzhanozfe.github.io/hook-cut-lab/)** · [Browser features and setup](demo/DEMO.md)
+
 ![Hook Cut Lab showing the included example in the browser](docs/preview.png)
 
 [Deploy to Render](https://render.com/deploy?repo=https://github.com/oguzhanozfe/hook-cut-lab) · [Example input](example.json) · [Computed report](docs/example-report.json) · [Model settings](#connect-a-model)

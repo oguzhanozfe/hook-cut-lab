@@ -1,0 +1,13 @@
+{
+  "model": "gemma-4-e4b-it",
+  "text": "Row 2 · Given the product visibility at 1.8 seconds, why was the first proof marked as \"Absent\"?",
+  "row": 2,
+  "record": {
+    "Opening": "Question first",
+    "Product visible (s)": 1.8,
+    "First promise (s)": 0,
+    "First proof (s)": "Absent"
+  },
+  "source_sha256": "09f531ecb304ab725f27180e852a5f57c5427dcaa005639936576ee39ded2eb0",
+  "report_sha256": "46c76ff67599818c1655dfc58161f31d94b10a07106a5e1294735d2befb613c5"
+}
